@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="name_text_style">
+        <item name="android:layout_marginTop">@dimen/marginTop_name_text</item>
+        <item name="android:fontFamily">@font/roboto_thin</item>
+        <item name="android:paddingTop">@dimen/paddingTop_name_text</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/textSize_name_text</item>
+    </style>
+
+    <dimen name="paddingTop_name_text">8dp</dimen>
+    <dimen name="marginTop_name_text">16dp</dimen>
+    <dimen name="textSize_name_text">20sp</dimen>
+
+</resources>

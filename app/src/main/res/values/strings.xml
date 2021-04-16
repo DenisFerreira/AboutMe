@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="star_image">star image</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id mauris hendrerit, iaculis ligula et, malesuada ante. Suspendisse condimentum placerat lorem, ut accumsan est laoreet quis. Vestibulum ex urna, viverra quis orci at, mattis posuere erat. Pellentesque sed odio eget lectus porttitor tristique. Curabitur sit amet facilisis erat. Pellentesque ex nibh, sodales volutpat finibus sit amet, euismod quis enim. Curabitur ultricies elit sit amet elementum ullamcorper. Fusce sollicitudin nulla vitae orci dictum, non sagittis augue pulvinar. Nunc sapien nisl, semper sit amet lacus non, posuere tempor magna.  Sed venenatis nisi in massa sollicitudin dictum. Quisque rhoncus lectus vitae tincidunt consequat. Ut aliquet eros et sem sodales, sed elementum massa laoreet. Ut a finibus magna. Cras luctus arcu vitae massa pellentesque, quis faucibus diam venenatis. Integer nec metus ullamcorper, rhoncus nulla ac, pretium enim. Cras vitae auctor nunc, at luctus erat. Vestibulum interdum tincidunt elit, eget condimentum erat lacinia sed. Curabitur sollicitudin sed risus vel imperdiet. Nulla et tincidunt metus.</string>
+    <string name="nick_name_tip">What\'s your nickname?</string>
+    <string name="done">Done!</string>
+</resources>
